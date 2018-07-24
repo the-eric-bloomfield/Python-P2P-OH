@@ -1,4 +1,4 @@
-Index,Edibility ,Cap_Shape,Cap_Surface,Cap_Color,Bruises,Odor,Gill_Attachment,Gill_Spacing,Gill_Size,Gill_Color,Stalk_Shape,Stalk_Root,Stalk_Surface_Above_Ring,Stalk_Surface_Below_Ring,Stalk_Color_Above_Ring,Stalk_Color_Below_Ring,Veil_Type,Veil_Color,Ring_Number,Ring_Type,Spore_Print_Color,Population,Habitat
+Index,Edibility,Cap_Shape,Cap_Surface,Cap_Color,Bruises,Odor,Gill_Attachment,Gill_Spacing,Gill_Size,Gill_Color,Stalk_Shape,Stalk_Root,Stalk_Surface_Above_Ring,Stalk_Surface_Below_Ring,Stalk_Color_Above_Ring,Stalk_Color_Below_Ring,Veil_Type,Veil_Color,Ring_Number,Ring_Type,Spore_Print_Color,Population,Habitat
 1,p,x,s,n,t,p,f,c,n,k,e,e,s,s,w,w,p,w,o,p,k,s,u
 2,e,x,s,y,t,a,f,c,b,k,e,c,s,s,w,w,p,w,o,p,n,n,g
 3,e,b,s,w,t,l,f,c,b,n,e,c,s,s,w,w,p,w,o,p,n,n,m
